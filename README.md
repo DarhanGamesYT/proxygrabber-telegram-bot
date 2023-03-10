@@ -8,8 +8,6 @@ The bot also has statistics
 ***Upload the requirements using these commands***
 ```
 pip install pyTelegramBotAPI
-pip install proxybroker
-pip install PySocks
 ```
 
 ***Launch the bot***
