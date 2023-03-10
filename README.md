@@ -18,3 +18,6 @@ or
 ```
 py bot.py
 ```
+
+
+My telegram: @kazakhstanadm
